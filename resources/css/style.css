@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.125rem;
+    color: white;
+}
+
+#discover h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#discover p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+#release img {
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    display: block;
+    margin-bottom: 20px;
+}
+
+h1, h2, footer {
+    font-weight: normal;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
