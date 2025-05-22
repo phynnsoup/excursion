@@ -18,6 +18,10 @@ h1 {
     font-size: 1.3125rem;
     color: gray;
 }
+#discover img {
+    max-width: 856px;
+    width: 100%;
+}
 
 #release img {
     padding-top: 20px;
